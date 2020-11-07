@@ -1,0 +1,8 @@
+.app-list {
+    margin-top: 50px;
+}
+.app-list .list-group-item {
+  padding: 15px 35px 15px 35px;
+  margin-top: 10px;
+  border: 1px solid rgba(0, 0, 0, .1)
+}
